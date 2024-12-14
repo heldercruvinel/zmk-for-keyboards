@@ -29,7 +29,7 @@ manifest:
       revision: main
     - name: nice-view-elemental
       remote: kevinpastor
-      revison: main
+      revision: main
     - name: nice-view-gem
       remote: m165437
       revision: main
