@@ -37,7 +37,7 @@ manifest:
       remote: s6t
       revision: main
     - name: nice-view-battery
-      remote:infely
+      remote: infely
       revision: main
   self:
     path: config
